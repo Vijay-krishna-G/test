@@ -1,5 +1,0 @@
-{{#user}} 
-Name: Vijay Krishna G 
-Skills: Python Programming, C Programming, OpenCV, Git, PostgreSQL, Django, HTML, CSS, JS 
-Email: vijayunnigpvj@gmail.com 
-{{/user}} 
